@@ -1,1 +1,1 @@
-Not Yazma İşlemleri Yapar. Notları Veri Tabanında Tutar. Global not platforumları için uygun olabilir
+Not Yazma İşlemleri Yapar. Notları Veri Tabanında Tutar. Global not yazma platforumları için uygun olabilir
